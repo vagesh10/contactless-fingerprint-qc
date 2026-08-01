@@ -1,0 +1,25 @@
+Image,Category,Composite Score,Passed,Blur Score,Brightness,Glare,ROI,Ridge,Guidance
+84__M_Right_little_finger.BMP,blurry,56.52,False,1.54,161.0,0.096,0.5149,179890.92,Too blurry. Hold your phone steady.
+8__M_Left_ring_finger.BMP,blurry,60.24,False,1.48,126.89,0.0983,0.4646,347166.94,Too blurry. Hold your phone steady.
+9__M_Left_index_finger.BMP,blurry,54.09,False,1.58,181.79,0.0875,0.6217,104866.33,Too blurry. Hold your phone steady.
+9__M_Left_little_finger.BMP,blurry,56.03,False,1.66,177.78,0.0723,0.5375,87384.51,Too blurry. Hold your phone steady.
+9__M_Right_index_finger.BMP,blurry,57.03,False,1.61,156.81,0.11,0.4587,190918.81,Too blurry. Hold your phone steady.
+9__M_Right_thumb_finger.BMP,blurry,69.72,False,1.63,154.77,0.0136,0.4627,130055.87,Too blurry. Hold your phone steady.
+84__M_Right_little_finger.BMP,dark,91.48,False,1196.42,55.29,0.0,0.6716,5364.02,Image is too dark. Increase lighting.
+8__M_Left_ring_finger.BMP,dark,81.01,False,1509.93,54.35,0.0,0.1446,6781.98,Image is too dark. Increase lighting.
+9__M_Left_index_finger.BMP,dark,91.54,False,790.74,55.81,0.0,0.8454,4637.62,Image is too dark. Increase lighting.
+9__M_Left_little_finger.BMP,dark,91.52,False,727.38,55.66,0.0,0.7799,4748.74,Image is too dark. Increase lighting.
+9__M_Right_index_finger.BMP,dark,91.51,False,1141.2,55.57,0.0,0.7642,4877.17,Image is too dark. Increase lighting.
+9__M_Right_thumb_finger.BMP,dark,91.54,False,1410.62,55.78,0.0,0.8443,9132.79,Image is too dark. Increase lighting.
+84__M_Right_little_finger.BMP,glare,86.33,True,48453.58,177.29,0.0421,0.5412,849796.25,Good capture. Ready for processing.
+8__M_Left_ring_finger.BMP,glare,93.64,True,39515.9,144.8,0.0234,0.4734,1126285.88,Good capture. Ready for processing.
+9__M_Left_index_finger.BMP,glare,80.29,True,26200.41,187.72,0.0678,0.6198,523335.19,Good capture. Ready for processing.
+9__M_Left_little_finger.BMP,glare,77.93,True,27881.92,191.34,0.0781,0.6472,897341.31,Good capture. Ready for processing.
+9__M_Right_index_finger.BMP,glare,84.07,True,35271.15,169.85,0.0588,0.5467,972769.12,Good capture. Ready for processing.
+9__M_Right_thumb_finger.BMP,glare,86.42,True,45305.32,163.52,0.0502,0.543,1211626.62,Good capture. Ready for processing.
+84__M_Right_little_finger.BMP,good,88.85,True,58881.36,159.0,0.0401,0.4748,644143.19,Good capture. Ready for processing.
+8__M_Left_ring_finger.BMP,good,95.44,True,50418.83,125.54,0.0228,0.3717,798130.94,Good capture. Ready for processing.
+9__M_Left_index_finger.BMP,good,81.66,True,30697.93,179.83,0.0654,0.5651,522815.31,Good capture. Ready for processing.
+9__M_Left_little_finger.BMP,good,81.13,True,35069.11,175.55,0.0709,0.5463,740856.62,Good capture. Ready for processing.
+9__M_Right_index_finger.BMP,good,85.78,True,40775.87,155.08,0.0589,0.4561,818304.94,Good capture. Ready for processing.
+9__M_Right_thumb_finger.BMP,good,87.37,True,52943.31,153.19,0.0516,0.5122,1107348.25,Good capture. Ready for processing.
