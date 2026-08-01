@@ -1,5 +1,5 @@
 numpy==2.5.1
-opencv-python==5.0.0.93
+opencv-python-headless==4.13.0.92
 pandas==3.0.5
 streamlit==1.60.0
 matplotlib==3.11.1
